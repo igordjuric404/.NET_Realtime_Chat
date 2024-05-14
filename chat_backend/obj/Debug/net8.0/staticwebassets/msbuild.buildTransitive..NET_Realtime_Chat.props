@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\.NET_Realtime_Chat.props" />
+</Project>
